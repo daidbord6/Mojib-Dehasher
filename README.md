@@ -23,7 +23,7 @@ Run `MojibDehasher` (or `python mojib_dehasher.py`) and:
 
 Options:
 
-- **Preview only** shows what would happen if you ran it. Does NOT move or copy anything yet.
+- **test run** shows what would happen if you ran it. Does NOT move or copy anything yet.
 - **Move instead of copy** moves files out of your dump folder instead of copying them. It only is for the folder source. Copying is the default option for this.
 
 ### Command line
