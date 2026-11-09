@@ -71,7 +71,7 @@ You need python 3 with tkinter. Builds only run on the OS and CPU they were made
 ## Credits
 
 - Hash function and the file list: **Spiral**, found by reverse engineering the game's code (I'm pretty sure).
-- Tool and build scripts: **daidbord6/mlnecrafter65**.
+- Tool and build scripts: **daidbord6/mlnecrafter65 + Claude LLM**.
 - The idea of recovering names from the PCSX2 debug log came out of the PTR2 modding community's discussions of the game's hashed filesystem so yay discord.
 
 ## Disclaimer
